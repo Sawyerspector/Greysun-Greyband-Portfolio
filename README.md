@@ -41,10 +41,10 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 - Integrated Astro into multiple app flows, reinforcing tone, clarity, and user engagement  
 
 ### Astro Preview:
-<img src="./astro.png" alt="Astro Static Preview" width="280">
+<img src="./astro_preview.png" alt="Astro Static Preview" width="280">
 
 ### Astro Animation Preview:
-<img src="./astro_animation.gif" alt="Astro Animation" width="380">
+<img src="./astro.gif" alt="Astro Animation" width="380">
 
 ---
 
