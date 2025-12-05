@@ -41,7 +41,7 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 - Integrated Astro into multiple app flows, reinforcing tone, clarity, and user engagement  
 
 **Astro Preview:**  
-![Astro Mascot](./astro_preview.png)
+<img src="./astro_preview.png" alt="Astro Mascot" width="260">
 
 ---
 
