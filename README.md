@@ -1,3 +1,5 @@
+<img src="./astro.gif" width="500">
+
 # Greysun-Greyband-Portfolio
 Product, UX, and marketing work for GreyBand, a wearable breathalyzer and companion app by GreySun Technologies. Includes UI design and web content created in collaboration with the founding team.
 
@@ -58,7 +60,5 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 - **Figma** (primary UI design + prototyping)
 - Squarespace / Indiegogo editors (layout implementation)
 - Adobe Creative Suite (supporting visual assets)
-
-<img src="./astro.gif" width="500">
 
 ---
