@@ -60,5 +60,4 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 - Adobe Creative Suite (supporting visual assets)
 
 <img src="./astro.gif" width="500">
-
 ---
