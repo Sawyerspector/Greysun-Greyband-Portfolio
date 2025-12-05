@@ -43,6 +43,9 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 **Astro Preview:**  
 <img src="./astro_preview.png" alt="Astro Mascot" width="260">
 
+**Astro Animation Preview:**  
+<img src="./astro_animated.gif" alt="Astro Animated Mascot" width="240">
+
 ---
 
 ## External Links
