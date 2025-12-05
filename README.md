@@ -33,8 +33,6 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 
 ---
 
-<img src="./astro.gif" width="500">
-
 ### **Character & Motion Design – Astro Mascot**
 
 - Designed **Astro**, GreyBand’s animated mascot, as a friendly guide throughout the mobile app  
@@ -60,3 +58,5 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 - **Figma** (primary UI design + prototyping)
 - Squarespace / Indiegogo editors (layout implementation)
 - Adobe Creative Suite (supporting visual assets)
+
+<img src="./astro.gif" width="500">
