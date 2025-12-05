@@ -43,6 +43,7 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 
 <img src="./astro.png" width="300">
 
+
 ---
 
 ## External Links
@@ -58,5 +59,6 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 - **Figma** (primary UI design + prototyping)
 - Squarespace / Indiegogo editors (layout implementation)
 - Adobe Creative Suite (supporting visual assets)
+
 
 <img src="./astro.gif" width="500">
