@@ -40,11 +40,8 @@ This repo contains **external links** to the Figma design file and Indiegogo pag
 - Animated the character in **Adobe After Effects** for onboarding tutorials, user feedback moments, and celebratory micro-interactions  
 - Integrated Astro into multiple app flows, reinforcing tone, clarity, and user engagement  
 
-### Astro Preview:
-<img src="./astro_preview.png" alt="Astro Static Preview" width="280">
-
-### Astro Animation Preview:
-<img src="./astro.gif" alt="Astro Animation" width="380">
+<img src="./images/astro_preview.png" width="280">
+<img src="./images/astro.gif" width="380">
 
 ---
 
